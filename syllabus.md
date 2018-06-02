@@ -178,12 +178,15 @@ After final grades have been formulated, there will be no modifications (except 
  Grades are based on a percentage of the total cumulative points. TODO Total lecture points + Total lab points will result in the final grade (see table above).
 
 |Letter Grade|Corresponding Percentage Range|
-|:---:|:---:||A|92-100%||B+|88-89%|
-|B|82-87%|
-|B-|80-81%|
-|C+|77-79%|
-|C|70-76%|
-|D|60-69%|
+|:---:|:---:|
+|A|92-100%|
+|A|90-91.9%|
+|B+|88-89.9%|
+|B|82-87.9%|
+|B-|80-81.9%|
+|C+|78-79.9%|
+|C|70-77.9%|
+|D|60-69.9%|
 |F|<59.9%|
 
 #### Course Schedule
