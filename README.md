@@ -60,6 +60,9 @@ Lab
 - A list of Clark College’s computer labs can be accessed [here](http://www.clark.edu/campus-life/student-support/computing_resources/hours.php)
 - Library Resources, Tutoring and Writing Center, and Disability Support Services as well as other resources can be accessed on the [Clark College website](http://www.Clark.edu).
 
+#### Tutoring / Writing Center
+Clark College has tutoring services for a variety or academic disciplines including STEM (Science, Technology, Engineering, and Math).  You can find information about their services [here](http://www.clark.edu/campus-life/student-support/tutoring/index.php).
+
 #### Socrative
 
 - We will take advantage of a student response system called [Socrative](https://b.socrative.com/login/student/). The Room Name is **FISHER2070**. We will be using this tool to assess your (collective and personal) comprehension of topics in real time in the classroom. I'll be designing questions that I'll ask during lecture and lab and posting them to the room on Socrative. You'll be able to answer these questions from any browser or from the [ios or Android app](https://www.socrative.com/apps.html) downloaded onto your phone or tablet. If you can, please bring such a device to class every day. **If you are unable to do this, please let me know as soon as possible**.
@@ -90,8 +93,6 @@ The following table outlines connections between the Natural Science Program-Lev
 |Acquire scientific information from appropriate sources to analyze issues, claims or situations|Evaluate the reliability of scientific information using appropriate literature research strategies|Biomedical Issues Research Project|
 |Evaluate claims about the natural world using scientific methodology|Apply scientific methods of evidence-based hypothesis-testing to evaluate biological claims|Lab Reports; Biomedical Issues Research Project|
 
-LEFT OFF HERE
-
 ### Lab information
 Please note that the lab and conference are NOT separate entities from the lecture. One final grade is given for entirety of class and lab assignments.
 
@@ -112,74 +113,69 @@ Your effort outside of class will be reflected in the quality of work you do and
 
 *As you might imagine, we instructors get a ton of emails containing questions that could easily be answered by looking at this document, the course schedule, or referring to announcements made online. **As a courtesy to me, please make sure that these information sources have been checked before you email me with logistical questions. I reserve the right to reply with, "see syllabus" or "see announcements".**
 
-### Course objectives
-Upon successful completion of this course, a student should be able to:
-
-|Objective|Science Program Level Outcome|Assessments|
-|:---:|:---:|:---:|
-|Explain how human population growth, affluence and resource use affects the environment|Demonstrate comprehension of fundamental principles and relationships in the natural sciences and Communicate concepts and issues in the natural sciences|Tests 1-5, Final exam, Class discussions, Assignments|
-|Identify the role of natural selection in evolution.|Demonstrate comprehension of fundamental principles and relationships in the natural sciences and Communicate concepts and issues in the natural sciences|Tests 2, 3, Final exam, Class discussions, Assignments|
-|Explain how biological diversity is key to ensuring a populations’ ability to evolve|Demonstrate comprehension of fundamental principles and relationships in the natural sciences and Communicate concepts and issues in the natural sciences|Tests 3, 4, Final exam, Class discussions, Assignments|
-|Identify characteristics that make a species vulnerable to endangerment and extinction.|Demonstrate comprehension of fundamental principles and relationships in the natural sciences and Communicate concepts and issues in the natural sciences|Tests 3, 4, Final exam, Class discussions, Assignments, Lab quizzes|
-|Describe humans’ role in managing resources such as soil, water, and air|Demonstrate comprehension of fundamental principles and relationships in the natural sciences and Communicate concepts and issues in the natural sciences|Tests 3, 4, 5, Final exam, Class discussions, Assignments, Personal action project,|
-|Critically evaluate a variety of different types of sources for scientific credibility|Evaluate claims about the natural world using scientific methodology|Personal action project, Class discussions, Lab quizzes, Assignments, and Final exam|
-|Present information on the environmental impacts of a lifestyle change using credible and appropriate sources|Demonstrate comprehension of fundamental principles and relationships in the natural sciences and Communicate concepts and issues in the natural sciences|Personal action project|
-
 ### Course policies
 
-1. Attendance
+#### Attendance
 
-	Per university policy, attendance during the first week of class is mandatory. If you are absent during the first week and do not contact me, you will be dropped from the class. Attendance during the remainder of the term is critical to your success in this course. I will be tracking attendance with Socrative, and it will contribute to your participation grade (see below). The exams will focus on material covered in lecture, and the answers to the exam questions may not be available directly from the textbook.
+Per university policy, attendance during the first week of class is mandatory. If you are absent during the first week and do not contact me, you will be dropped from the class. Attendance during the remainder of the term is critical to your success in this course. I will be tracking attendance informally with Socrative. If you are absent, it is your responsibility to get copies of any handouts from another student or from Canvas. Please do not schedule routine doctor or dental appointments during class time.  You are expected to be on time for the start of lectures and  laboratories, as I will begin classes promptly at the designated time. It is also helpful to sit towards the front of the lecture room, as students who sit in the back few rows of seats are more easily distracted. The exams will focus on material covered in lecture, and the answers to the exam questions may not be available directly from the textbook.
 
-	If you are unable to attend a class later in the quarter, I will not have notes available for you; please get in touch with a classmate (or better yet, ask one in advance to take notes for you if you know in advance that you won't be there).
-2.	Class Preparation
+**Attendance at the laboratory section is mandatory**! Students who miss a lab or conference may not be able to make up the assignment, and as a result will lose the points for that assignment.  If you are absent, contact me as soon as possible to determine if a make-up session will be possible. If you know ahead of time that you may miss a lab, you may contact the instructor (at least one day ahead of time) of another lab to see if it is possible to attend their lab for that week. Each student may do this one time only during the quarter.
 
-	Success in this course depends not only on attendance, but also on effort. Many of the concepts that we will discuss tend to be unfamiliar to students, and much of the vocabulary will likely also be new. In order to make the most of class time, read over the assigned chapters or sections BEFORE the class and then re-read them more carefully DIRECTLY AFTER the class in which they are discussed. Waiting until right before a test to read the text is highly ineffective. Throughout the quarter, there will be in-class group activities and I will also be calling on students for responses to questions. Your interaction on these fronts will contribute to your participation grade.
+#### Class Preparation
 
-3.	Study Suggestions
+Success in this course depends not only on attendance, but also on effort. Many of the concepts that we will discuss tend to be unfamiliar to students, and much of the vocabulary will likely also be new. In order to make the most of class time, read over the assigned chapters or sections BEFORE the class and then re-read them more carefully DIRECTLY AFTER the class in which they are discussed. Waiting until right before a test to read the text is highly ineffective. Throughout the quarter, there will be in-class group activities and I will also be calling on students for responses to questions.
 
-	In my experience, most introductory-level science classes are challenging because they introduce new terminology and concepts. It will be important to use study time wisely. Here is a list of suggestions:
-	- Work hard during lectures. This work does not involve writing, word for word, everything that is said. Consider instead the strategy of taking sketchy notes during class, which frees up limited attention space for listening, participating, and thinking about the topics discussed. Following class, flesh out your notes, adding as much detail as possible. This forces a re-thinking of the discussion, putting the concepts in an order that makes sense to you.	- Make a list of questions as you study your notes and read the textbook. Ask these questions during conference, lecture, or ask another student while you're studying.	- Use the objectives at the beginning of each chapter AND the “Testing Your Comprehension questions” at the end of the chapter as a study guide. These review questions will highlight what is most important to focus on in the text. If any of my objectives for a unit go beyond those mentioned in the textbook, I will make you aware of that.	- Form study groups! Study groups can help everyone, whether you are doing well or are doing poorly. Use your study group to quiz each other and offer short teaching demos to each other on particular topics; you never truly appreciate what you know and don't know until you have to teach it to somebody else.
+#### Study Suggestions
 
-4. Academic Honesty
+In my experience, most introductory-level science classes are challenging because they introduce new terminology and concepts. It will be important to use study time wisely. Here is a list of suggestions:
+- Work hard during lectures. This work does not involve writing, word for word, everything that is said. Consider instead the strategy of taking sketchy notes during class, which frees up limited attention space for listening, participating, and thinking about the topics discussed. Following class, flesh out your notes, adding as much detail as possible. This forces a re-thinking of the discussion, putting the concepts in an order that makes sense to you.
+- Make a list of questions as you study your notes and read the textbook. Ask these questions during conference, lecture, or ask another student while you're studying.
+- Use the objectives at the beginning of each chapter AND the questions at the end of the chapter as a study guide TODO true?. These review questions will highlight what is most important to focus on in the text. If any of my objectives for a unit go beyond those mentioned in the textbook, I will make you aware of that.
+- Form study groups! Study groups can help everyone, whether you are doing well or are doing poorly. Use your study group to quiz each other and offer short teaching demos to each other on particular topics; you never truly appreciate what you know and don't know until you have to teach it to somebody else.
 
-	Academic honesty is required at all times. I have a ZERO tolerance policy for cheating. Anyone caught cheating will receive an “F” for the assignment and will likely be dropped from the course with a failing grade. If the cheating is discovered after the last drop date, the student receives an “F”. In addition, the student may be referred to the Office of the Vice President for further disciplinary action.
+#### Late/Missed Exams or Assignments
+Students who must miss a scheduled exam will not be allowed to take a make-up exam.  Instead, they will count this exam as their lowest score to be dropped.  Late work will not be accepted and will not be graded unless the lateness was due to a documented illness.
 
-	Cheating takes many forms. If you are not clear on what constitutes cheating (plagiarism, etc.), just ask me. Some quick examples of academic dishonesty include misrepresenting another student‘s work as your own or saying that you performed community service that you didn't.5. Classroom Behavior
+#### Academic Honesty
 
-	Modern technology is amazing, and in many instances it can be a tremendous learning asset. I'm not going to stop you from having or using these resources in class because you are an adult, and indeed will often leverage them to enhance your learning experience. However, sometimes the myriad temptations provided by having a phone, tablet, or laptop in front of you can compete with the course content for your attention.
+Academic honesty is required at all times. I have a ZERO tolerance policy for cheating. Anyone caught cheating will receive an “F” for the assignment and will likely be dropped from the course with a failing grade. If the cheating is discovered after the last drop date, the student receives an “F”. In addition, the student may be referred to the Office of the Vice President for further disciplinary action.
 
-	There are several studies that demonstrate a dramatic decrease of retention when a learner tries to multi-task, so please be aware of this and be warned that YOU ARE NOT MIRACULOUSLY IMMUNE TO THIS EFFECT.
-	If you are honest with yourself and find the temptation too great, I strongly recommend taking notes by hand.
-	A respectful environment will be maintained at all times. Please refer to the Code of Student Conduct online so you understand the student rights and responsibilities.
-6. Course Withdrawal
+Cheating takes many forms. If you are not clear on what constitutes cheating (plagiarism, etc.), just ask me. Some quick examples of academic dishonesty include misrepresenting another student‘s work as your own or saying that you performed community service that you didn't.
 
-	Students may drop a class and receive a “W” grade until the end of the 8th week of classes. After that, you will not be allowed to drop a class unless you get permission from the Dean. If you stop coming to class without officially withdrawing you will receive an “F”. Although you will not need my signature to drop this course, please email me to let me know if you have withdrawn as a courtesy.7. Late Assignment Policy
+#### Classroom Behavior
 
-	Assignments worth over 10 points will be accepted with point deductions up to 1 week after the due date with a point penalty. Each weekday, there will be a 10% point deduction, up to a 50% deduction after 5 weekdays. Assignments more than 1 week late (5 weekdays) will NOT be accepted. Personal action journals, eco-footprints, and other items that are to be posted on online Forums or discussion boards will not be accepted late.
-8. Missed Tests
+Modern technology is amazing, and in many instances it can be a tremendous learning asset. I'm not going to stop you from having or using these resources in class because you are an adult, and indeed will often leverage them to enhance your learning experience. However, sometimes the myriad temptations provided by having a phone, tablet, or laptop in front of you can compete with the course content for your attention.
 
-	There will be no make-up tests. This includes family emergencies, sicknesses, etc. Because of this stringent policy, the lowest test score will automatically be dropped.	### Graded items and grading scale
+There are several studies that demonstrate a dramatic decrease of retention when a learner tries to multi-task, so please be aware of this and be warned that YOU ARE NOT MIRACULOUSLY IMMUNE TO THIS EFFECT.
+If you are honest with yourself and find the temptation too great, I strongly recommend taking notes by hand.
+A respectful environment will be maintained at all times. Please refer to the Code of Student Conduct online so you understand the student rights and responsibilities.
+
+#### Course Withdrawal
+
+Students may drop a class and receive a “W” grade until the end of the 8th week of classes. After that, you will not be allowed to drop a class unless you get permission from the Dean. If you stop coming to class without officially withdrawing you will receive an “F”. Although you will not need my signature to drop this course, please email me to let me know if you have withdrawn as a courtesy.
+
+### Graded items and grading scale
 
 *Please note that the weights and point distributions outlined below are subject to slight change. If the points values of anything change from what is laid out below, this syllabus will be updated, and I'll post an announcement about it.
 
-|Graded Component|Details|Contribution (raw points)|Contribution (% of final grade)|
-|:---:|:---:|:------:|:---:|
-|Community Service|You will be responsible for coming up with a detailed plan for environmental community service by the end of week 4. During the quarter, you will be responsible for at least 8 hours of verified work. Document your work and answer the questions on the form in a single spaced typed one-two page final report. Final forms are due to be uploaded to our course website by the last lecture period. I am highly recommending work at the Clark College Native Plant Propagation Center located at the college greenhouse. I will provide a list with one or two other options as well. If you want to volunteer with any other environmental organization for this credit, you MUST get my approval BEFORE volunteering in order to receive credit. All forms will be posted on our course website.|100|13.8%|
-|Tests|Tests will not be comprehensive. They will cover the chapters and information from the labs that week. Tests will be multiple choice, matching, true/false, and short answer. Please bring a #2 pencil and an eraser. Your lowest test score will be dropped. Tests will be given in conference unless otherwise noted. NO make-up tests since I drop a score anyway.|best four of five tests @ 50 points each = 200|27.6%|
-|Final Exam|The final exam will be comprehensive (covering material from the entire quarter). It will have the same format as the other tests.	Any material covered in lab, lecture or conference may appear on the final exam.|100|13.8%|
-|Other assignments/reading quizzes/in-class activities|These may be assigned and/or completed in lecture. Stay tuned for more information.|~15|2.1%|
-|Participation|Every student begins the quarter with a perfect participation score. Deductions occur when students are absent, tardy, disruptive, or don't conduct themselves professionally|50|6.9%|
-|Lab Assignments|Lab assignments will consist of either active participation in the lab itself or of worksheets focusing on readings and/or the lab activities. Lab assignments will be due at the end of lab. Occasionally there may be a pre-lab assignment. |9 @ 15 points each = 120|16.6%|
-|Lab Quizzes|Quizzes will be given at the beginning of conference. Quizzes will be on the material presented in the most recently completed lab. Taking notes and asking questions in lab will help you on the quizzes. On the weeks that there is no lab quiz, there will be lab questions on the exam for that week.|4 @ 10 points each = 40|5.5%|
-|Personal Action Project (PAP)|You will get to choose a personal action project that requires active participation throughout the quarter. You will conduct research on an environmental issue related to your action(s) and present this research during a designated time slot (see course schedule). You will be required to upload a bibliography with appropriate sources onto the course website. You will also keep an online weekly journal to record your progress. The journal entries will be posted on our online discussion forum. A separate PAP Instruction Sheet will be posted on our course website with more details. Your instructor can provide some PAP suggestions if need be.|100|13.8%|
-|Extra Credit Opportunities|You may accrue up to 15 points of extra credit over the course of the semester by: 1) Attending a Student Success Workshop (FREE) this quarter (5 pts.), 2) Watch a film called “Chasing Ice” and type up a one page summary of what the movie is about and what you learned from watching the film (5 pts), 3) Other opportunities will be announced in class and posted on our course website under Extra Credit.|15|N/A|
-|**Total**||725|100%|
+TODO
 
+|Graded Component|Details|Point value|
+|:---:|:---:|:------:|
+|Lecture Exams|There will be 3 Lecuture Exams each worth 100 points during the quarter. The lowest Exam score will be dropped. Exams 2 and 3 will cover only the material since the previous Exam (i.e. they will not be comprehensive). These tests may also include material from the lab(s) that have been completed during the same time interval.  The test format will consist of multiple-choice questions. SCANTRON answer forms will be used, meaning you will need to bring a number 2 pencil with an eraser to each test.  The test will begin promptly at the start of class, so be on time.  If you are late, you will only have the remaining portion of the time to complete the test and will only be allowed to start the exam if no one has finished.|200|
+|Lab Practical Exams|There will be two lab practical exams that will test your knowledge of concepts in cell biology as well as practical application of lab-based skills. Lab Practical Exams require the setup of lab equipment and supplies (possibly including living organisms).  Thus, **Lab Practical Exams must be taken at their scheduled times**.  (2 practical exams @ 100 points each = 200 points)|200|
+|Lab Modules|Throughout the quarter, we will have TODO 12 laboratory modules.  You will work with partners to complete the written portions of the lab report.  Ten points will be awarded satisfactory completion of each lab module.  Your lowest lab module score will be dropped. (11 lab modules @ 10 points each = 110 points)|110|
+|Final Exam|The final exam will be given finals week. It is a comprehensive test, covering topics from all quarter. It is a multiple choice test.|150|
+|Research Project|Working in teams of 3-5 students, you will research, analyze, and report on the validity of the various perspectives surrounding a contemporary biomedical issue. Your group will submit a research poster describing this research and analysis.  (Team Contract and 3 Team Evaluations @ 5 points each + Final Team Project @ 100 points = 120 points)|120|
+|**Total**||780|
+
+Grading Scale: Your grade will be figured objectively, based on the points you earn throughout the quarter as a percentage of the highest point total.  This allows you to easily track your grade as the quarter progresses so there won’t be any surprises at the end. Changes to assignment, quiz, and exam grades will be made if there has been a mathematical error.  Re-grades will NOT be performed on a question-by-question basis.  If you feel that the answer you selected is better than the answer on the answer key and you submit your exam for re-grading, the ENTIRE EXAM will be re-graded (not just that one question).
+
+After final grades have been formulated, there will be no modifications (except to correct grading mistakes due to mathematical error).  In an effort to standardize the course across various instructors, it is departmental policy to offer no extra credit opportunities for Biology 160. If you are having trouble with the course and fear you will not achieve an adequate grade, see your instructor early, get help, and do so regularly throughout the term.
 
 #### Grading Scale
 
- Grades are based on a percentage of the total cumulative pointsTtoal lecture points + Total lab points will result in the final grade (see table above).
+ Grades are based on a percentage of the total cumulative points. TODO Total lecture points + Total lab points will result in the final grade (see table above).
 
 |Letter Grade|Corresponding Percentage Range|
 |:---:|:---:||A|92-100%||B+|88-89%|
@@ -189,17 +185,26 @@ Your effort outside of class will be reflected in the quality of work you do and
 |C|70-76%|
 |D|60-69%|
 |F|<59.9%|
+
 #### Course Schedule
 
-The course schedule can be viewed [here](https://docs.google.com/spreadsheets/d/1VzFvP5PEFnOKjtI4nmxta7PozU9ef0U8QVwFSYfWYOM/edit?usp=sharing). This schedule is tentative and subject to change. Any changes will be announced in LECTURE. It is a student’s responsibility to keep apprised of changes. Labs in bold mean there will be outdoor activities involved – dress accordingly.#### ADA Accommodations
+|Objective|Science Program Level Outcome|Assessments|
+|:---:|:---:|:---:|
+||||
+
+This schedule is tentative and subject to change. Any changes will be announced in lecture or posted on Canvas. It is a student’s responsibility to keep track of changes.
+
+#### ADA Accommodations
 If you have emergency medical information which should be shared; or if you
 require assistance in case the building should be evacuated; please make an appointment to see me as soon as
 possible during the office hours indicated in this syllabus. Any student with a disability who may require
 accommodation in order to fully participate in this class should contact the Disability Support Services Office
 31 | Page
-at (360) 992-2314 or (360) 991-0901 (VP) or stop by GHL 137.
+at (360) 992-2314 or (360) 991-0901 (VP) or stop by GHL 137 or the Penguin Union Building (PUB) room 013.
 
-#### Non-discrimination Policy
+### Laboratory Safety
+No food or drinks are allowed in the lab.  Labs may involve pathogens (disease-causing organisms), and/or chemical and physical hazards.  Failure to follow appropriate lab precautions may result in your removal from the lab for that session.
+### Non-discrimination Policy
 Clark College affirms a commitment to freedom from discrimination for all members of the college
 community. The responsibility for, and the protection of, this commitment extends to students, faculty,
 administration, staff, contractors, and those who develop or participate in college programs. It encompasses
