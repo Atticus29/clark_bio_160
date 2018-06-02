@@ -1,4 +1,4 @@
-# Clark College# Biology 160: Environmental Biology (7736)
+# Clark College# Biology 160: General Biology with Lab (1062)
 # Syllabus: Summer Quarter 2018
 ## Instructor Information
 
@@ -6,17 +6,16 @@
 
 |Name|Office Location|Mailbox|Email|Emergency Email|
 |:---:|:---:|:---:|:---:|:---:|
-|Mark Fisher, PhD.|CTC 0272|CTC 0273|mfisher@clark.edu|mark.aaron.fisher@gmail.com|## Course Info
+|Mark Fisher, PhD.|TODO|TODO|mfisher@clark.edu|mark.aaron.fisher@gmail.com|## Course Info
 
 ---
 ### Class times and locations
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Lecture|CTC 0210|T/Th|9:00AM-10:20AM|
-|Lecture|CTC 0210|Th|11:00AM-11:50AM|
-|Lab|CTC 0315|T|11:00AM-1:50PM|
-|Office Hours|CTC 0270-2|T|2:00 PM - 3:00 PM|
+|Office Hours|TODO|T|9:45 AM - 10:45 AM|
+|Lecture|SBG 151|T/Th|11:00 AM - 12:55 PM|
+|Lab|SBG 321|T/Th|1:30 PM - 3:50 PM|
 ---
 #### Course Schedule
 
@@ -24,45 +23,41 @@ Lecture
 
 |Date (Monday)|Week|Topics|Text Chapter(s)|
 |:---:|:---:|:---:|:---:|
-|2 Apr., 2018|1|Introduction to Life on Earth|1|
-|9 Apr., 2018|2|Atoms, Molecules and Life|2|
-|16 Apr., 2018|3|Biological Molecules|3|
-|23 Apr., 2018|4|Cell Structure and Function **Exam 1 (Wednesday)**|4|
-|30 Apr., 2018|5|Cell Membranes, Energy Flow and Life of the Cell|5, 6|
-|7 May, 2018|6|Ch. 6 (cont.) & PhotosynthesisCellular Respiration|7.1 only, 8|
-|14 May, 2018|7|Ch. 8 (cont.) & Population Growth and Regulation|9|
-|21 May, 2018|8|Community Interactions **Exam 2 (Wednesday)** Chapter 10 not covered on exam|10|
-|28 May, 2018|9|Ch. 10 (cont. ) & Ecosystems|11|
-|4 Jun., 2018|10|Ch. 11 (cont.) & Diverse Ecosystems & Biodiversity|12, 13|
-|Monday, 11 Jun., 2018, 9:00AM - 10:50 AM|11|CRN 26658 (MW 9:00 AM - 10:20 AM) **Comprehensive Final Exam**|NA|
-|Monday, 11 Jun., 2018, 1:00PM - 2:50 PM|11|CRN 20409 (MW 1:00 PM - 2:20 PM) **Comprehensive Final Exam**|NA|
+|9 July., 2018|1|||
+|16 July., 2018|2|||
+|23 July., 2018|3|||
+|30 July., 2018|4|||
+|6 Aug., 2018|5|||
+|13 Aug, 2018|6|||
+|20 Aug, 2018|7|||
+|27 Aug, 2018|8|||
+|TODO Monday, 11 Jun., 2018, 1:00PM - 2:50 PM|11|CRN 20409 (MW 1:00 PM - 2:20 PM) **Comprehensive Final Exam**|NA|
 
 Lab
 
 |Date (Monday)|Week|Topics|
 |:---:|:---:|:---:|
-|2 Apr., 2018|1|Scientific Method/Measurement|
-|9 Apr., 2018|2|Atomic Structure and Water|
-|16 Apr., 2018|3|Macromolecules/Enzymes|
-|23 Apr., 2018|4|The Microscope and Microscopic Life|
-|30 Apr., 2018|5|The Cell|
-|7 May, 2018|6|Diffusion, Osmosis and pH|
-|21 May, 2018|7|Photosynthesis/Respiration|
-2018|8|Community Interactions|
-|28 May, 2018|9|Bioindicators|
-|4 Jun., 2018|10|	Owl Pellets and Populations/Ecological Footprint|
+|9 July., 2018|1||
+|16 July., 2018|2||
+|23 July., 2018|3||
+|30 July., 2018|4||
+|6 Aug., 2018|5||
+|13 Aug, 2018|6||
+|20 Aug, 2018|7||
+|27 Aug, 2018|8|||
 
-
-*Please note that this schedule represents a minor rearrangement from the course described in the catalog such that lecture occurs before lab. The course still utilizes the same time slots!
 
 ### Textbooks and other resources
 
-#### Textbook- *Essential Environment* (5th ed), by Withgott and Laposata
-	- Available at Clark College Bookstore
-- Bring the textbook to class – we will use it during class time.
+#### Textbook
+- Concepts of Biology, (2016) by Fowler, Roush, and Wise.  ISBN 978-1-938168-11-6.  Published by OpenStaxCollege.  
+    - This book is available for free download at openstax.org.
+	- Note:  4 copies of the book are available for 3 hour checkout in Cannell Library Check Out Desk
 
 #### Computer Resources
-- There is a convenient computer lab in the library, and a list of Clark College’s computer labs can be accessed [here](http://www.clark.edu/campus-life/student-support/computing_resources/hours.php)
+- BIOL 160 canvas site; you need to access the course site on a regular basis throughout the term. Lab modules, other communications, and grade updates will be posted there.
+
+- A list of Clark College’s computer labs can be accessed [here](http://www.clark.edu/campus-life/student-support/computing_resources/hours.php)
 - Library Resources, Tutoring and Writing Center, and Disability Support Services as well as other resources can be accessed on the [Clark College website](http://www.Clark.edu).
 
 #### Socrative
@@ -70,19 +65,34 @@ Lab
 - We will take advantage of a student response system called [Socrative](https://b.socrative.com/login/student/). The Room Name is **FISHER2070**. We will be using this tool to assess your (collective and personal) comprehension of topics in real time in the classroom. I'll be designing questions that I'll ask during lecture and lab and posting them to the room on Socrative. You'll be able to answer these questions from any browser or from the [ios or Android app](https://www.socrative.com/apps.html) downloaded onto your phone or tablet. If you can, please bring such a device to class every day. **If you are unable to do this, please let me know as soon as possible**.
 
 ### Course Description
- Welcome to Biology 101 (Environmental Biology)! BIOL 101 is a five credit, introductory level course with no prerequisites. The objective of this course is to introduce you to a variety of environmental concepts using lectures, discussions, readings, and writing assignments.
+ Overview of basic concepts and issues in biology including: biochemistry, the cellular basis of life, metabolism, and genetics. Course has a strong emphasis on the process of scientific inquiry using critical thinking and communication abilities. Course is primarily intended for pre-Healthcare students. Required for Nursing DTA-MRP.  Students may not receive credit for both BIOL 160 and BIOL 100.  [NS, SE]
 
-Examples of topics that we will discuss include environmental issues and their roots, human population growth and its impact on natural systems, ecosystems, invasive species, water quality, biodiversity, and ecological restoration.
+#### Objectives
+Successful completion of BIOL 160 fulfills 5 credits of the laboratory science distribution requirement for an Associates of Arts degree, fulfills the General/Cellular Biology requirement for the Nursing DTA-MRP, and also fulfills the prerequisite for BIOL 241 Human Anatomy and Physiology I.
 
-Environmental Biology Lab is part of this course and provides additional opportunities for exploring environmental topics through hands-on activities, in-depth discussions, and field activities.
+#### Natural Science Program-Level Outcomes (PLOs)
+All students who earn an Associate in Arts or an Associate in Science degree from Clark College are expected to be scientifically literate.  
 
-**This class meets 5 of your 15 science distribution credits for an Associate of Arts transfer degree. **
+In order to ensure this literacy, students successfully completing any Clark College Science course are expected to demonstrate the ability to:
+ - Apply fundamental principles and relationships from the Natural Sciences to solve problems.
+ - Apply scientific methodologies to develop and answer questions about the natural world.
+ - Acquire scientific information from appropriate sources to analyze issues, claims or situations.
+ - Evaluate claims about the natural world using scientific methodology.
 
-#### Philosophy and purpose of this course
+#### BIOL 160 Course Learning Outcomes (CLOs)
 
-In this course you will have the opportunity to learn about and reflect on your impact on the environment. It is my hope that you make some lifestyle changes after you learn about your own ecological footprint. I believe we can all learn from each other, so I encourage collaborative sharing of ideas (except during exams!). It is well known that we learn best by doing and experiencing, and that is where the interactive lab activities will further expand your understanding of the lecture concepts. I encourage you to come with an open mind!
+The following table outlines connections between the Natural Science Program-Level Outcomes, the BIOL 160 Course-Level Outcomes, and specific concepts and activities in BIOL 160.  The table also shows the exams and assignments that will be used to assess proficiency for these various Outcomes.
 
-#### Lab information
+|Natural Science PLOs|BIOL 160 CLOs|Assessment|
+|:---:|:---:|:---:|
+|Apply fundamental principles and relationships from the Natural Sciences to solve problems|Apply basic biology principles including biochemistry, cells structure and function, metabolism, and genetics|Exams; Lab Practical Exams|
+|Apply scientific methodologies to develop and answer questions about the natural world|Perform laboratory observation and experimentation/Draw conclusions about scientific principles based on practice of scientific methodologies|Lab Reports; Lab Practical Exams;|
+|Acquire scientific information from appropriate sources to analyze issues, claims or situations|Evaluate the reliability of scientific information using appropriate literature research strategies|Biomedical Issues Research Project|
+|Evaluate claims about the natural world using scientific methodology|Apply scientific methods of evidence-based hypothesis-testing to evaluate biological claims|Lab Reports; Biomedical Issues Research Project|
+
+LEFT OFF HERE
+
+### Lab information
 Please note that the lab and conference are NOT separate entities from the lecture. One final grade is given for entirety of class and lab assignments.
 
 Labs focus on hands-on learning of key concepts; some labs will be outdoors or in the greenhouse, but the majority will take place in the classroom designated for labs.
