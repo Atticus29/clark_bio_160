@@ -75,32 +75,32 @@ The following table outlines connections between the Natural Science Program-Lev
 
 Lecture
 
-|Date (Monday)|Week|Topics|Text Chapter(s)|
+|Date (Monday)|Week|Topics (T,Th)|Text Chapter(s)|
 |:---:|:---:|:---:|:---:|
-|9 July., 2018|1|||
-|16 July., 2018|2|||
-|23 July., 2018|3|||
-|30 July., 2018|4|||
-|6 Aug., 2018|5|||
-|13 Aug, 2018|6|||
-|20 Aug, 2018|7|||
-|27 Aug, 2018|8|||
-|TODO Monday, 11 Jun., 2018, 1:00PM - 2:50 PM|11|CRN 20409 (MW 1:00 PM - 2:20 PM) **Comprehensive Final Exam**|NA|
+|9 July., 2018|1|Syllabus, Class Structure, Chapter 1, Chapter 2: Chemistry: Atoms and Bonds|1,2|
+|16 July., 2018|2|Chapter 2 Chemistry: Water and pH, Chapter 2 Chemistry: Macromolecules|2|
+|23 July., 2018|3|**Test 1 (covers Chapter 1 and 2 materials)**, Chapter 3 Cell Structure and Diversity|3|
+|30 July., 2018|4|Chapter 3 Membrane Transport, Chapter 4: Respiration and Fermentation Part 1|3, 4|
+|6 Aug., 2018|5|Chapter 4 Respiration and Fermentation Part 2, Open session for review|4|
+|13 Aug, 2018|6|**Test 2 (covers Chapters 3 and 4)**, Chapter 9: DNA Structure and Replication|9|
+|20 Aug, 2018|7|Chapter 9: Transcription and Translation, Chapters 6: Mitosis|9,6|
+|27 Aug, 2018|8|Chapter 7: Meiosis, **Final Exam** session will be from 8:30 am to 2:00 pm.  It will cover lecture materials from ALL chapters. You may begin the exam at any point during that time period and you may take as long as you want. The only requirement is that your final exam must be submitted by 2:00 pm.  So be sure to give yourself enough time to take the exam comfortably (typical BIOL 160 students in past terms have taken between 45 minutes and 90 minutes for the final exam).|7|
 
 Lab
 
-|Date (Monday)|Week|Topics|
+|Date (Monday)|Week|Topics (T,Th)|
 |:---:|:---:|:---:|
-|9 July., 2018|1||
-|16 July., 2018|2||
-|23 July., 2018|3||
-|30 July., 2018|4||
-|6 Aug., 2018|5||
-|13 Aug, 2018|6||
-|20 Aug, 2018|7||
-|27 Aug, 2018|8|||
+|9 July., 2018|1|Lab 1:  The Scientific Method|
+|16 July., 2018|2|Lab 2:  Chemistry|
+|23 July., 2018|3|Lab 3:  Microscopy I – Microbiology and Epithelial Tissues, Lab 4: Microscopy II – Cellular Diversity and Connective Tissues|
+|30 July., 2018|4|Lab 5: Enzymes, Lab 6: Osmosis|
+|6 Aug., 2018|5|Lab: Open session for review / Lab Practical preparation, **Lab Practical 1**|
+|13 Aug, 2018|6|Lab 7: Human Respiration / Yeast Fermentation, Lab 8: Strawberry DNA Extraction and Bioinformatics|
+|20 Aug, 2018|7|Lab 9: DNA Transcription / Translation, Lab 10: Mitosis|
+|27 Aug, 2018|8|**Lab Practical 2 (Labs 7-10)**, No lab on the day of the final|
 
 This schedule is tentative and subject to change. Any changes will be announced in lecture or posted on Canvas. It is a student’s responsibility to keep track of changes.
+
 ---
 
 ### Lab information
