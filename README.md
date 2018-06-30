@@ -22,6 +22,9 @@
 #### Textbook (Required)
 - Concepts of Biology (2017) by Fowler, Roush, and Wise.  ISBN 978-1-938168-11-6.  Published by OpenStaxCollege.  [Link](https://openstax.org/details/books/concepts-biology)
 
+#### Lab Prompts
+- Lab prompts for Biology 160 are available on the course's Canvas site.
+
 #### Computer Resources
 - BIOL 160 [Course Canvas site](http://clarkcollege.instructure.com).  You will need to access the course Canvas site on a regular basis throughout the term.  Lab modules, other communications, and grade updates will be posted there.
 
@@ -114,11 +117,13 @@ Conferences will be used to introduce/review labs, take lecture tests and lab qu
 Your effort outside of class will be reflected in the quality of work you do and result in a corresponding grade. In other words, do not expect an “A” grade when you are not putting in the time/effort outside of the classroom to achieve “A” work.
 
 #### Specific student responsibilities
+
 1.	You are responsible for knowing the due dates of assignments.
 2. If you miss lab, you are responsible for obtaining copies of handouts from other students. Handouts will not be brought to class a second time for those students who missed class.
 3. You are responsible for knowing WHERE the lab is meeting on any particular day.4.	You are responsible for knowing how you are doing in class. All points are cumulative. I'll often be collecting graded documents back after distributing them (quizzes, exams, etc.), so it may not be a bad idea to record your scores somewhere consistent to keep track. Instructors make grading mistakes, so it will benefit you to keep your own backup records.
 
-*As you might imagine, we instructors get a ton of emails containing questions that could easily be answered by looking at this document, the course schedule, or referring to announcements made online. **As a courtesy to me, please make sure that these information sources have been checked before you email me with logistical questions. I reserve the right to reply with, "see syllabus" or "see announcements".**
+As you might imagine, we instructors get a ton of emails containing questions that could easily be answered by looking at this document, the course schedule, or referring to announcements made online. As a courtesy to me, please make sure that these information sources have been checked before you email me with logistical questions. I reserve the right to reply with, "see syllabus" or "see announcements".
+
 ---
 ### Graded items and grading scale
 
@@ -126,18 +131,19 @@ Your effort outside of class will be reflected in the quality of work you do and
 
 TODO
 
-|Graded Component|Details|Point value|
+|Graded Component|Details|Total Point Value|
 |:---:|:---:|:------:|
-|Lecture Exams|There will be 3 Lecuture Exams each worth 100 points during the quarter. The lowest Exam score will be dropped. Exams 2 and 3 will cover only the material since the previous Exam (i.e. they will not be comprehensive). These tests may also include material from the lab(s) that have been completed during the same time interval.  The test format will consist of multiple-choice questions. SCANTRON answer forms will be used, meaning you will need to bring a number 2 pencil with an eraser to each test.  The test will begin promptly at the start of class, so be on time.  If you are late, you will only have the remaining portion of the time to complete the test and will only be allowed to start the exam if no one has finished.|200|
-|Lab Practical Exams|There will be two lab practical exams that will test your knowledge of concepts in cell biology as well as practical application of lab-based skills. Lab Practical Exams require the setup of lab equipment and supplies (possibly including living organisms).  Thus, **Lab Practical Exams must be taken at their scheduled times**.  (2 practical exams @ 100 points each = 200 points)|200|
-|Lab Modules|Throughout the quarter, we will have TODO 12 laboratory modules.  You will work with partners to complete the written portions of the lab report.  Ten points will be awarded satisfactory completion of each lab module.  Your lowest lab module score will be dropped. (11 lab modules @ 10 points each = 110 points)|110|
-|Final Exam|The final exam will be given finals week. It is a comprehensive test, covering topics from all quarter. It is a multiple choice test.|150|
-|Research Project|Working in teams of 3-5 students, you will research, analyze, and report on the validity of the various perspectives surrounding a contemporary biomedical issue. Your group will submit a research poster describing this research and analysis.  (Team Contract and 3 Team Evaluations @ 5 points each + Final Team Project @ 100 points = 120 points)|120|
-|**Total**||780|
+|Study Journals|There will be weekly study journal assignments.  These are meant to have you think about the processes of learning. 5 @ 5 pts. each| 25 pts.|
+|Active Learning Assignments|Each week, we will have one or two assignments that ask you to apply and connect concepts together.|30 pts.|
+|Lecture Tests|There will be 2 tests (see Schedule), each worth 75 points. The format will consist of multiple-choice questions and possibly short answer questions. SCANTRON answer forms will be provided.  You will need to bring a number 2 pencil with an eraser to each test. 2 @ 75 pts. each|150 pts.|
+|Lab Modules|In lab, we will work on lab modules that ask you to perform hands on activities or web investigations.  This will help to approach the biological concepts in a more applied way than can be obtained from the reading the textbook. 10 @ 10 pts. each|100 pts.|
+|Lab Practicals|There will be two lab practical exams that will test your knowledge of cell biology and your ability to apply lab-based skills. Lab Practical Exams require the setup of lab equipment and supplies (possibly including living organisms).  Thus, Lab Practical Exams must be taken at their scheduled times (see Schedule). 2 @ 50 pts. each|100 pts.|
+|Final Exam|The final exam will occur on the last day of the term.  It will cover all topics covered during the term (both lecture and lab).  The final exam will be a combination of multiple choice and short answer questions. Scantron forms will be provided.  You will need a number 2 pencil with eraser.  The final exam score will count in your final grade (it will not be dropped).  Since the final exam is cumulative, if your final exam percentage score is higher than the total percentage from all your other work, your final exam percentage will be used as your final class percentage.  That is, even if you fail everything else in class, if you earn an “A” on the final exam, you’ll end up with an “A” in the class.|150 pts.|
+|**Total**||555|
 
 Grading Scale: Your grade will be figured objectively, based on the points you earn throughout the quarter as a percentage of the highest point total.  This allows you to easily track your grade as the quarter progresses so there won’t be any surprises at the end. Changes to assignment, quiz, and exam grades will be made if there has been a mathematical error.  Re-grades will NOT be performed on a question-by-question basis.  If you feel that the answer you selected is better than the answer on the answer key and you submit your exam for re-grading, the ENTIRE EXAM will be re-graded (not just that one question).
 
-After final grades have been formulated, there will be no modifications (except to correct grading mistakes due to mathematical error).  In an effort to standardize the course across various instructors, it is departmental policy to offer no extra credit opportunities for Biology 160. If you are having trouble with the course and fear you will not achieve an adequate grade, see your instructor early, get help, and do so regularly throughout the term.
+After final grades have been formulated, there will be no modifications (except to correct grading mistakes due to mathematical error).  In an effort to standardize the course across various instructors, it is departmental policy to offer no extra credit opportunities for Biology 160. If you are having trouble with the course and fear you will not achieve an adequate grade, see your instructor _early_, get help, and do so regularly throughout the term.That will give you time to learn in an authentic way (which is the goal of a college education!).
 
 #### Grading Scale
 
@@ -151,8 +157,8 @@ After final grades have been formulated, there will be no modifications (except 
 |B+|88-89.9%|
 |B|82-87.9%|
 |B-|80-81.9%|
-|C+|78-79.9%|
-|C|70-77.9%|
+|C+|77-79.9%|
+|C|70-76.9%|
 |D|60-69.9%|
 |F|<59.9%|
 ---
