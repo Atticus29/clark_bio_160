@@ -65,10 +65,10 @@ The following table outlines connections between the Natural Science Program-Lev
 
 |Natural Science PLOs|BIOL 160 CLOs|Assessment|
 |:---:|:---:|:---:|
-|Apply fundamental principles and relationships from the Natural Sciences to solve problems|Apply basic biology principles including biochemistry, cells structure and function, metabolism, and genetics|Do-It Assignments; Discussions; Exams; Lab Practical Exams|
-|Apply scientific methodologies to develop and answer questions about the natural world|Perform laboratory observation and experimentation/Draw conclusions about scientific principles based on practice of scientific methodologies|Do It Assignments; Lab Practical Exams;|
-|Acquire scientific information from appropriate sources to analyze issues, claims or situations|Evaluate the reliability of scientific information using appropriate literature research strategies|Do It Assignments; Discussions|
-|Evaluate claims about the natural world using scientific methodology|Apply scientific methods of evidence-based hypothesis-testing to evaluate biological claims|Lab Practical 2|
+|Apply fundamental principles and relationships from the Natural Sciences to solve problems|Apply basic biology principles including biochemistry, cells structure and function, metabolism, and genetics|Labs and Assignments; Discussions; Exams; Lab Practicals|
+|Apply scientific methodologies to develop and answer questions about the natural world|Perform laboratory observation and experimentation/Draw conclusions about scientific principles based on practice of scientific methodologies|Labs and Assignments; Lab Practicals|
+|Acquire scientific information from appropriate sources to analyze issues, claims or situations|Evaluate the reliability of scientific information using appropriate literature research strategies|Labs and Assignments; Discussions|
+|Evaluate claims about the natural world using scientific methodology|Apply scientific methods of evidence-based hypothesis-testing to evaluate biological claims|Labs and Assignments; Lab Practicals|
 ---
 
 ### Course Schedule
@@ -79,12 +79,12 @@ Lecture
 |:---:|:---:|:---:|:---:|
 |9 July., 2018|1|Syllabus, Class Structure, Chapter 1, Chapter 2: Chemistry: Atoms and Bonds|1,2|
 |16 July., 2018|2|Chapter 2 Chemistry: Water and pH, Chapter 2 Chemistry: Macromolecules|2|
-|23 July., 2018|3|**Test 1 (covers Chapter 1 and 2 materials)**, Chapter 3 Cell Structure and Diversity|3|
+|23 July., 2018|3|**Test 1 (covers Chapters 1 and 2)**, Chapter 3 Cell Structure and Diversity|3|
 |30 July., 2018|4|Chapter 3 Membrane Transport, Chapter 4: Respiration and Fermentation Part 1|3, 4|
-|6 Aug., 2018|5|Chapter 4 Respiration and Fermentation Part 2, Open session for review|4|
-|13 Aug, 2018|6|**Test 2 (covers Chapters 3 and 4)**, Chapter 9: DNA Structure and Replication|9|
-|20 Aug, 2018|7|Chapter 9: Transcription and Translation, Chapters 6: Mitosis|9,6|
-|27 Aug, 2018|8|Chapter 7: Meiosis, **Final Exam** session will be from 8:30 am to 2:00 pm.  It will cover lecture materials from ALL chapters. You may begin the exam at any point during that time period and you may take as long as you want. The only requirement is that your final exam must be submitted by 2:00 pm.  So be sure to give yourself enough time to take the exam comfortably (typical BIOL 160 students in past terms have taken between 45 minutes and 90 minutes for the final exam).|7|
+|6 Aug., 2018|5|Chapter 4 Respiration and Fermentation Part 2, Chapter 9: DNA Structure and Replication|4,9|
+|13 Aug, 2018|6|**Test 2 (covers Chapters 3, 4, and part of 9)**, Chapter 9: Transcription and Translation|9|
+|20 Aug, 2018|7|Chapters 6: Mitosis, Chapter 7: Meiosis and Common Descent with Modification|6,7|
+|27 Aug, 2018|8|Population Genetics, Speciation, and Evolution , **Final Exam** session will be from 8:30 am to 2:00 pm.  It will cover lecture materials from ALL chapters. You may begin the exam at any point during that time period and you may take as long as you want. The only requirement is that your final exam must be submitted by 2:00 pm.  So be sure to give yourself enough time to take the exam comfortably (typical BIOL 160 students in past terms have taken between 45 minutes and 90 minutes for the final exam).|11|
 
 Lab
 
@@ -93,10 +93,10 @@ Lab
 |9 July., 2018|1|Lab 1:  The Scientific Method|
 |16 July., 2018|2|Lab 2:  Chemistry|
 |23 July., 2018|3|Lab 3:  Microscopy I – Microbiology and Epithelial Tissues, Lab 4: Microscopy II – Cellular Diversity and Connective Tissues|
-|30 July., 2018|4|Lab 5: Enzymes, Lab 6: Osmosis|
+|30 July., 2018|4|Lab 6: Osmosis, Lab 5: Enzymes|
 |6 Aug., 2018|5|Lab: Open session for review / Lab Practical preparation, **Lab Practical 1**|
 |13 Aug, 2018|6|Lab 7: Human Respiration / Yeast Fermentation, Lab 8: Strawberry DNA Extraction and Bioinformatics|
-|20 Aug, 2018|7|Lab 9: DNA Transcription / Translation, Lab 10: Mitosis|
+|20 Aug, 2018|7|Lab 9: DNA Transcription / Translation, Lab 10: Mitosis and Exam Review|
 |27 Aug, 2018|8|**Lab Practical 2 (Labs 7-10)**, No lab on the day of the final|
 
 This schedule is tentative and subject to change. Any changes will be announced in lecture or posted on Canvas. It is a student’s responsibility to keep track of changes.
@@ -127,9 +127,7 @@ As you might imagine, we instructors get a ton of emails containing questions th
 ---
 ### Graded items and grading scale
 
-*Please note that the weights and point distributions outlined below are subject to slight change. If the points values of anything change from what is laid out below, this syllabus will be updated, and I'll post an announcement about it.
-
-TODO
+Your grade will be based on the percentage score you earn throughout the quarter.  This is calculated as follows:  (Points Earned x 100) ÷ 555 Points Possible.
 
 |Graded Component|Details|Total Point Value|
 |:---:|:---:|:------:|
@@ -140,6 +138,8 @@ TODO
 |Lab Practicals|There will be two lab practical exams that will test your knowledge of cell biology and your ability to apply lab-based skills. Lab Practical Exams require the setup of lab equipment and supplies (possibly including living organisms).  Thus, Lab Practical Exams must be taken at their scheduled times (see Schedule). 2 @ 50 pts. each|100 pts.|
 |Final Exam|The final exam will occur on the last day of the term.  It will cover all topics covered during the term (both lecture and lab).  The final exam will be a combination of multiple choice and short answer questions. Scantron forms will be provided.  You will need a number 2 pencil with eraser.  The final exam score will count in your final grade (it will not be dropped).  Since the final exam is cumulative, if your final exam percentage score is higher than the total percentage from all your other work, your final exam percentage will be used as your final class percentage.  That is, even if you fail everything else in class, if you earn an “A” on the final exam, you’ll end up with an “A” in the class.|150 pts.|
 |**Total**||555|
+
+*Please note that the weights and point distributions outlined below are subject to slight change. If the points values of anything change from what is laid out below, this syllabus will be updated, and I'll post an announcement about it.*
 
 Grading Scale: Your grade will be figured objectively, based on the points you earn throughout the quarter as a percentage of the highest point total.  This allows you to easily track your grade as the quarter progresses so there won’t be any surprises at the end. Changes to assignment, quiz, and exam grades will be made if there has been a mathematical error.  Re-grades will NOT be performed on a question-by-question basis.  If you feel that the answer you selected is better than the answer on the answer key and you submit your exam for re-grading, the ENTIRE EXAM will be re-graded (not just that one question).
 
