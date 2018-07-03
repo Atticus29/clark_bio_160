@@ -13,7 +13,7 @@
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Office Hours|TODO|T|9:45 AM - 10:45 AM|
+|Office Hours|SBG 356|T|9:45 AM - 10:45 AM|
 |Lecture|SBG 151|T/Th|11:00 AM - 12:55 PM|
 |Lab|SBG 321|T/Th|1:30 PM - 3:50 PM|
 ---
