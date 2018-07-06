@@ -133,8 +133,8 @@ Your grade will be based on the percentage score you earn throughout the quarter
 
 |Graded Component|Details|Total Point Value|
 |:---:|:---:|:------:|
-|Study Journals|There will be weekly study journal assignments.  These are meant to have you think about the processes of learning. 5 @ 5 pts. each| 25 pts.|
-|Active Learning Assignments|Each week, we will have one or two assignments that ask you to apply and connect concepts together.|30 pts.|
+|Study Journals|There will be 5 study journal assignments.  These are meant to have you think about the processes of learning. 5 @ 5 pts. each| 25 pts.|
+|Active Learning Assignments|Over the course, we will have several assignments that ask you to apply and connect concepts together. They are collectively worth 30 points.|30 pts.|
 |Lecture Tests|There will be 3 tests (see Schedule), each worth 75 points. The format will consist of multiple-choice questions and possibly short answer questions. The first two tests will take place in class. SCANTRON answer forms will be provided.  You will need to bring a number 2 pencil with an eraser to each of the in-class tests. The third test will be a take-home test, and it will likely be formatted similarly. 3 @ 75 pts. each, lowest dropped|150 pts.|
 |Lab Modules|In lab, we will work on lab modules that ask you to perform hands on activities or web investigations.  This will help to approach the biological concepts in a more applied way than can be obtained from the reading the textbook. 10 @ 10 pts. each|100 pts.|
 |Lab Practicals|There will be two lab practical exams that will test your knowledge of cell biology and your ability to apply lab-based skills. Lab Practical Exams require the setup of lab equipment and supplies (possibly including living organisms).  Thus, Lab Practical Exams must be taken at their scheduled times (see Schedule). 2 @ 50 pts. each|100 pts.|
