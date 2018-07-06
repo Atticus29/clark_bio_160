@@ -173,13 +173,17 @@ I will be tracking attendance/participation informally with Socrative and reserv
 
 **Attendance at the laboratory section is mandatory**! If you know ahead of time that you may miss a lab, it may be possible to attend another lab session. Find another section of the Biology 160 lab that you can attend on the same week, and send an email both to that instructor and to me to see whether such a make-up is feasible that week. Each student may do this one time only during the quarter.
 
+You'll notice that there is one open session for review and lab practical prep. If you missed a lab and/or were late to a lab, this is the perfect time to work on completing and turning in the lab modules for these labs.
+
+I'll be accepting lab submissions up until the date of the final exam without penalty. Early and/or on-time submissions are much appreciated. **I won't accept lab prompt submissions after the date of the final exam**.
+
 
 #### Class Preparation
 
 Success in this course depends not only on attendance, but also on effort. Many of the concepts that we will discuss tend to be unfamiliar to students, and much of the vocabulary will likely also be new. In order to make the most of class time, read over the assigned chapters or sections BEFORE the class and then re-read them more carefully DIRECTLY AFTER the class in which they are discussed. Waiting until right before a test to read the text is highly ineffective. Throughout the quarter, there will be in-class group activities and I will also be calling on students for responses to questions.
 
 #### Late/Missed Exams or Assignments
-Students who must miss a scheduled lecture test will not be allowed to take a make-up.  Instead, they will count this lecture test as their lowest score to be dropped.  Acceptance of late work is at the instructor’s discretion and will typically only occur due to documented emergency.
+Students who must miss a scheduled lecture test will not be allowed to take a make-up.  Instead, they will count this lecture test as their lowest score to be dropped.  Acceptance of late work is at the instructor’s discretion and will typically only occur due to documented emergency. Late lab module submissions will be accepted without penalty.
 
 #### Academic Honesty
 
