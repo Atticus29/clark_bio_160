@@ -5,7 +5,7 @@
 ---
 
 |Name|Office Location|Email|Emergency Email|
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |Mark Fisher, PhD.|SBG 356|mfisher@clark.edu|mark.aaron.fisher@gmail.com|
 
 ---
@@ -24,14 +24,14 @@
 #### Textbook (Required)
 - Concepts of Biology (2017) by Fowler, Roush, and Wise.  ISBN 978-1-938168-11-6.  Published by OpenStaxCollege.  [Link](https://openstax.org/details/books/concepts-biology)
 
-#### Lab Prompts
-- Lab prompts for Biology 160 are available on the course's Canvas site.
-
 #### Computer Resources
-- BIOL 160 [Course Canvas site](http://clarkcollege.instructure.com).  You will need to access the course Canvas site on a regular basis throughout the term.  Lab modules, other communications, and grade updates will be posted there.
+- [BIOL 160 Course Canvas site](http://clarkcollege.instructure.com).  You will need to access the course Canvas site on a regular basis throughout the term.  Lab modules, other communications, and grade updates will be posted there.
 
 - A list of Clark College’s computer labs can be accessed [here](http://www.clark.edu/campus-life/student-support/computing_resources/hours.php)
 - Library Resources, Tutoring and Writing Center, and Disability Support Services as well as other resources can be accessed on the [Clark College website](http://www.Clark.edu).
+
+#### Lab Prompts
+- Lab prompts for Biology 160 are available on the course's Canvas site.
 
 #### Tutoring / Writing Center
 Clark College has tutoring services for a variety or academic disciplines including STEM (Science, Technology, Engineering, and Math).  You can find information about their services [here](http://www.clark.edu/campus-life/student-support/tutoring/index.php).
