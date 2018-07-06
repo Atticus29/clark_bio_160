@@ -11,7 +11,7 @@
 ---
 ## Course Info
 
-### Class times and locations
+### Class times and locations
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
@@ -47,7 +47,7 @@ Clark College has tutoring services for a variety or academic disciplines includ
 ---
 ### Course Description
 
-Overview of basic concepts and issues in biology including biochemistry, the cellular basis of life, metabolism, and genetics. Strong emphasis on the process of scientific inquiry using critical thinking and communication abilities. **Primarily intended for pre-healthcare students**. Required for Nursing DTA-MRP.  Students may not receive credit for BIOL 160 and BIOL 105.  TODO what is this? [NS, SE]
+Overview of basic concepts and issues in biology including biochemistry, the cellular basis of life, metabolism, and genetics. Strong emphasis on the process of scientific inquiry using critical thinking and communication abilities. **Primarily intended for pre-healthcare students**. Required for Nursing DTA-MRP.  Students may not receive credit for BIOL 160 and BIOL 105 [NS, SE].
 
 #### Objectives
 Successful completion of BIOL 160 fulfills 5 credits of the laboratory science distribution requirement for an Associates of Arts degree, fulfills the General/Cellular Biology requirement for the Nursing DTA-MRP, and also fulfills the prerequisite for BIOL 241 Human Anatomy and Physiology I and BIOL 260 Microbiology.
@@ -135,7 +135,7 @@ Your grade will be based on the percentage score you earn throughout the quarter
 |:---:|:---:|:------:|
 |Study Journals|There will be weekly study journal assignments.  These are meant to have you think about the processes of learning. 5 @ 5 pts. each| 25 pts.|
 |Active Learning Assignments|Each week, we will have one or two assignments that ask you to apply and connect concepts together.|30 pts.|
-|Lecture Tests|There will be 2 tests (see Schedule), each worth 75 points. The format will consist of multiple-choice questions and possibly short answer questions. SCANTRON answer forms will be provided.  You will need to bring a number 2 pencil with an eraser to each test. 2 @ 75 pts. each|150 pts.|
+|Lecture Tests|There will be 3 tests (see Schedule), each worth 75 points. The format will consist of multiple-choice questions and possibly short answer questions. The first two tests will take place in class. SCANTRON answer forms will be provided.  You will need to bring a number 2 pencil with an eraser to each of the in-class tests. The third test will be a take-home test, and it will likely be formatted similarly. 3 @ 75 pts. each, lowest dropped|150 pts.|
 |Lab Modules|In lab, we will work on lab modules that ask you to perform hands on activities or web investigations.  This will help to approach the biological concepts in a more applied way than can be obtained from the reading the textbook. 10 @ 10 pts. each|100 pts.|
 |Lab Practicals|There will be two lab practical exams that will test your knowledge of cell biology and your ability to apply lab-based skills. Lab Practical Exams require the setup of lab equipment and supplies (possibly including living organisms).  Thus, Lab Practical Exams must be taken at their scheduled times (see Schedule). 2 @ 50 pts. each|100 pts.|
 |Final Exam|The final exam will occur on the last day of the term.  It will cover all topics covered during the term (both lecture and lab).  The final exam will be a combination of multiple choice and short answer questions. Scantron forms will be provided.  You will need a number 2 pencil with eraser.  The final exam score will count in your final grade (it will not be dropped).  Since the final exam is cumulative, if your final exam percentage score is higher than the total percentage from all your other work, your final exam percentage will be used as your final class percentage.  That is, even if you fail everything else in class, if you earn an “A” on the final exam, you’ll end up with an “A” in the class.|150 pts.|
@@ -179,7 +179,7 @@ I will be tracking attendance/participation informally with Socrative and reserv
 Success in this course depends not only on attendance, but also on effort. Many of the concepts that we will discuss tend to be unfamiliar to students, and much of the vocabulary will likely also be new. In order to make the most of class time, read over the assigned chapters or sections BEFORE the class and then re-read them more carefully DIRECTLY AFTER the class in which they are discussed. Waiting until right before a test to read the text is highly ineffective. Throughout the quarter, there will be in-class group activities and I will also be calling on students for responses to questions.
 
 #### Late/Missed Exams or Assignments
-Students who must miss a scheduled lecture test will not be allowed to take a make-up.  Instead, they will count this lecture test as their lowest score to be dropped TODO is this still true?.  Acceptance of late work is at the instructor’s discretion and will typically only occur due to documented emergency.
+Students who must miss a scheduled lecture test will not be allowed to take a make-up.  Instead, they will count this lecture test as their lowest score to be dropped.  Acceptance of late work is at the instructor’s discretion and will typically only occur due to documented emergency.
 
 #### Academic Honesty
 
@@ -222,7 +222,7 @@ Director of Human Resources. Information regarding support, resources, and repor
 [online](http://www.clark.edu/clark-and-community/about/policies-procedures/title-IX/index.php)
 
 #### Important College-Wide Student Information
-Please check the syllabus template located at [https://clarknet.clark.edu/](https://clarknet.clark.edu/) ,under “Departments”, then “Office of Instruction”, then Development” for important college-wide student
+Please check the syllabus template located at [https://clarknet.clark.edu/](https://clarknet.clark.edu/), under “Departments”, then “Office of Instruction”, then Development” for important college-wide student
 information.
 
 ---
