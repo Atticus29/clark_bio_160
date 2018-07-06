@@ -1,14 +1,16 @@
 # Clark College# Biology 160: General Biology with Lab (1062)
 # Syllabus: Summer Quarter 2018
-## Instructor Information
+## Instructor Information
 
 ---
 
-|Name|Office Location|Mailbox|Email|Emergency Email|
+|Name|Office Location|Email|Emergency Email|
 |:---:|:---:|:---:|:---:|:---:|
-|Mark Fisher, PhD.|TODO|TODO|mfisher@clark.edu|mark.aaron.fisher@gmail.com|## Course Info
+|Mark Fisher, PhD.|SBG 356|mfisher@clark.edu|mark.aaron.fisher@gmail.com|
 
 ---
+## Course Info
+
 ### Class times and locations
 
 |Content Type|Room|Day(s)|Time|
@@ -148,7 +150,7 @@ After final grades have been formulated, there will be no modifications (except 
 #### Grading Scale
 
  Grades are based on a percentage of the total cumulative points
-. TODO Total lecture points + Total lab points will result in the final grade (see table above).
+. Total lecture points + Total lab points (= 555 points) will result in the final grade (see table above).
 
 |Letter Grade|Corresponding Percentage Range|
 |:---:|:---:|
@@ -177,7 +179,7 @@ I will be tracking attendance/participation informally with Socrative and reserv
 Success in this course depends not only on attendance, but also on effort. Many of the concepts that we will discuss tend to be unfamiliar to students, and much of the vocabulary will likely also be new. In order to make the most of class time, read over the assigned chapters or sections BEFORE the class and then re-read them more carefully DIRECTLY AFTER the class in which they are discussed. Waiting until right before a test to read the text is highly ineffective. Throughout the quarter, there will be in-class group activities and I will also be calling on students for responses to questions.
 
 #### Late/Missed Exams or Assignments
-Students who must miss a scheduled TODO quiz/exam will not be allowed to take a make-up.  Instead, they will count this TODO quiz/exam as their lowest score to be dropped.  Acceptance of late work is at the instructor’s discretion and will typically only occur due to documented emergency.
+Students who must miss a scheduled lecture test will not be allowed to take a make-up.  Instead, they will count this lecture test as their lowest score to be dropped TODO is this still true?.  Acceptance of late work is at the instructor’s discretion and will typically only occur due to documented emergency.
 
 #### Academic Honesty
 
@@ -229,5 +231,5 @@ information.
 In my experience, most introductory-level science classes are challenging because they introduce new terminology and concepts. It will be important to use study time wisely. Here is a list of suggestions:
 - Work hard during lectures. This work does not involve writing, word for word, everything that is said. Consider instead the strategy of taking sketchy notes during class, which frees up limited attention space for listening, participating, and thinking about the topics discussed. Following class, flesh out your notes, adding as much detail as possible. This forces a re-thinking of the discussion, putting the concepts in an order that makes sense to you.
 - Make a list of questions as you study your notes and read the textbook. Ask these questions during conference, lecture, or ask another student while you're studying.
-- Use the objectives at the beginning of each chapter AND the questions at the end of the chapter as a study guide TODO true?. These review questions will highlight what is most important to focus on in the text. If any of my objectives for a unit go beyond those mentioned in the textbook, I will make you aware of that.
+- Use the objectives associated with each chapter in the Learning Objectives module on Canvas AND the questions at the end of the chapter as a study guide. These resources will highlight what is most important to focus on in the text. If any of my objectives for a unit go beyond those mentioned in on Canvas, I will make you aware of that.
 - Form study groups! Study groups can help everyone, whether you are doing well or are doing poorly. Use your study group to quiz each other and offer short teaching demos to each other on particular topics; you never truly appreciate what you know and don't know until you have to teach it to somebody else.
