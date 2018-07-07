@@ -43,7 +43,9 @@ Clark College has tutoring services for a variety or academic disciplines includ
 
 #### Good Reads, but Optional
 - The A Game: Nine Steps to Better Grades (2011).  By Kenneth Sufka.  ISBN 1936946025.  This book is a good, short guide to effective study strategies in college [science] classes.  Ten copies are available in lab and two copies are available in the Cannell Library on main campus.  It can be purchased new at Amazon.com for $12.95.
+
 - Mindset: The New Psychology of Success (2007).  By Carol Dweck.  ISBN 9780345472328.  This is a great book about the mindset that helps you learn and grow, the perils of being a perfectionist, and the attitudes that will help you be successful in this class and the rest of your education (and in your career and as a parent and in many other aspects of life).  We have one copy in the Cannell Library. It can be purchased from Amazon.com for $10.20.
+
 ---
 ### Course Description
 
