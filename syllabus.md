@@ -94,8 +94,8 @@ Lab
 
 |Date (Monday)|Week|Topics (T,Th)|
 |:---:|:---:|:---:|
-|9 July., 2018|1|Lab 1:  The Scientific Method|
-|16 July., 2018|2|Lab 2:  Chemistry|
+|9 July., 2018|1|Lab 1:  The Scientific Method (pt. 1), Lab 1:  The Scientific Method (pt. 2)|
+|16 July., 2018|2|Lab 2:  Chemistry (pt. 1), Lab 2:  Chemistry (pt. 2)|
 |23 July., 2018|3|Lab 3:  Microscopy I – Microbiology and Epithelial Tissues, Lab 4: Microscopy II – Cellular Diversity and Connective Tissues|
 |30 July., 2018|4|Lab 6: Osmosis, Lab 5: Enzymes|
 |6 Aug., 2018|5|Lab: Open session for review / Lab Practical preparation, **Lab Practical 1**|
