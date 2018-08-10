@@ -86,8 +86,8 @@ Lecture
 |23 July., 2018|3|**Test 1 (covers Chapters 1 and 2)**, Chapter 3 Cell Structure and Diversity|3|
 |30 July., 2018|4|Chapter 3 Membrane Transport, Chapter 4: Respiration and Fermentation Part 1|3, 4|
 |6 Aug., 2018|5|Chapter 4 Respiration and Fermentation Part 2, Chapter 9: DNA Structure and Replication|4,9|
-|13 Aug, 2018|6|**Test 2 (covers Chapters 3, 4, and part of 9)**, Chapter 9: Transcription and Translation|9|
-|20 Aug, 2018|7|Chapters 6: Mitosis, Chapter 7: Meiosis and Common Descent with Modification/**Test 3 (take-home test; covers part of Chapter 9, Chapters 6 and 7)**|6,7|
+|13 Aug, 2018|6|**Test 2 (covers Chapter 2 nucleic acids, Chapter 3, and Chapter 4)**, Chapter 9: Transcription and Translation|9|
+|20 Aug, 2018|7|Chapters 6: Mitosis, Chapter 7: Meiosis and Common Descent with Modification/**Test 3 (take-home test; covers Chapter 9, and the parts of Chapters 6 and 7 covered in lecture)**|6,7|
 |27 Aug, 2018|8|Population Genetics, Speciation, and Evolution, **Final Exam** session will be from 8:30 am to 2:00 pm.  It will cover lecture materials from ALL chapters. You may begin the exam at any point during that time period and you may take as long as you want. The only requirement is that your final exam must be submitted by 2:00 pm.  So be sure to give yourself enough time to take the exam comfortably (typical BIOL 160 students in past terms have taken between 45 minutes and 90 minutes for the final exam).|11|
 
 Lab
