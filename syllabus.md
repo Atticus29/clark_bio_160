@@ -99,7 +99,7 @@ Lab
 |23 July., 2018|3|Lab 3:  Microscopy I – Microbiology and Epithelial Tissues, Lab 4: Microscopy II – Cellular Diversity and Connective Tissues|
 |30 July., 2018|4|Lab 6: Osmosis, Lab 5: Enzymes|
 |6 Aug., 2018|5|Lab: Open session for review / Lab Practical preparation, **Lab Practical 1**|
-|13 Aug, 2018|6|Lab 7: Human Respiration / Yeast Fermentation, Lab 8: Strawberry DNA Extraction and Bioinformatics|
+|13 Aug, 2018|6|Lab 8: Strawberry DNA Extraction and Bioinformatics (from home!), Lab 7: Human Respiration / Yeast Fermentation|
 |20 Aug, 2018|7|Lab 9: DNA Transcription / Translation, Lab 10: Mitosis and Exam Review|
 |27 Aug, 2018|8|**Lab Practical 2 (Labs 7-10)**, No lab on the day of the final|
 
