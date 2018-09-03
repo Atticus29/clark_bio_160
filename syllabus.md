@@ -157,7 +157,7 @@ After final grades have been formulated, there will be no modifications (except 
 |Letter Grade|Corresponding Percentage Range|
 |:---:|:---:|
 |A|92-100%|
-|A|90-91.9%|
+|A-|90-91.9%|
 |B+|88-89.9%|
 |B|82-87.9%|
 |B-|80-81.9%|
